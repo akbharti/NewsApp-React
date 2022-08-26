@@ -9,6 +9,6 @@ export class Spinner extends Component {
       </div>
     )
   }
-}
+} 
 
 export default Spinner

@@ -4,7 +4,7 @@ import './App.css';
 import News from './components/News';
 import {Routes, Route} from "react-router-dom";
 import LoadingBar from 'react-top-loading-bar'
-
+ 
 const App = () => {
   const pageSize = 3;
   const apiKey = 'fa507dfbae0e4bc48c58365a144d40ef';   
