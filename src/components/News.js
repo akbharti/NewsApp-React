@@ -84,8 +84,6 @@ const News = (props) =>   {
     setLoading(false)
   };
 
-
-    //  console.log("render")
      return (
        <>
            <h1 className='text-center' style={{margin : '90px 0px 30px 0px'}}>NewsMonkey - Top {capitalizeFirstLetter(props.category)} Headlines</h1>
